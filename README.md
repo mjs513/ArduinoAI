@@ -25,3 +25,4 @@ This is a temporary website linking some of the demos and tools we build to supp
 
 ## Teensy Demo Dashboard
 
+[Teensy BLE - Web Dashboard](https://github.com/mjs513/ArduinoAI/blob/main/BLESense-test-dashboard/index1.html)
